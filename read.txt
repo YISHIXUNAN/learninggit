@@ -19,3 +19,7 @@ add Three
 
 
 add Four
+
+
+
+Git has a mutable index called stage.
